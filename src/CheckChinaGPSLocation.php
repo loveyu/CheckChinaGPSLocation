@@ -3,6 +3,7 @@
 /**
  * 判断当前GPS坐标是否在中国
  * 基于Google坐标系，未处理投影问题，如需处理请加上转换逻辑
+ * IDE 自动生成了部分PHP7特有的内容，如果不需要请自行删除
  * Class CheckChinaGPSLocation
  * @author loveyu
  */
